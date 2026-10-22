@@ -7,6 +7,9 @@
 | Рахунок-фактура (рахунок на оплату) | Word `.docx` | [blank-rakhunku-faktury.docx](templates/blank-rakhunku-faktury.docx?raw=1) |
 | Рахунок-фактура з формулами (сума рядків і «Разом» рахуються самі) | Excel `.xlsx` | [blank-rakhunku-faktury.xlsx](templates/blank-rakhunku-faktury.xlsx?raw=1) |
 | Акт виконаних робіт / наданих послуг | Word `.docx` | [akt-vykonanykh-robit.docx](templates/akt-vykonanykh-robit.docx?raw=1) |
+| Акт звірки взаємних розрахунків | Word `.docx` | [akt-zvirky.docx](templates/akt-zvirky.docx?raw=1) |
+| Видаткова накладна | Word `.docx` | [vydatkova-nakladna.docx](templates/vydatkova-nakladna.docx?raw=1) |
+| Інвойс двомовний (UA/EN) для іноземного клієнта | Word `.docx` | [invoys-ua-en.docx](templates/invoys-ua-en.docx?raw=1) |
 
 > Не хочете заповнювати Word щоразу? Той самий рахунок можна зробити онлайн у [Rakhuno](https://rakhuno.com/invoice). Реквізити ФОП зберігаються у вашому браузері, а клієнту одразу йде PDF. Безкоштовно.
 
@@ -31,6 +34,13 @@
 
 Пояснення та приклад заповнення: [акт виконаних робіт для ФОП](https://rakhuno.com/guides/akt-vykonanykh-robit).
 
+## Інші документи
+
+- **Акт звірки**: дебет, кредит і сальдо за період. [Приклад заповнення](https://rakhuno.com/guides/akt-zvirky).
+- **Видаткова накладна**: передача товару покупцю. [Реквізити й зразок](https://rakhuno.com/guides/vydatkova-nakladna).
+- **Інвойс UA/EN**: для оплати від іноземного клієнта у валюті, з SWIFT. [Інвойс і проформа](https://rakhuno.com/guides/invoys-proforma).
+- **Сума прописом** для будь-якого документа: [конвертер онлайн](https://rakhuno.com/suma-propysom).
+
 ## Як заповнити рахунок за 2 хвилини
 
 1. Скачайте `.docx` або `.xlsx` і відкрийте в Word, Excel, Google Docs/Sheets чи LibreOffice.
@@ -43,7 +53,7 @@
 
 ## English
 
-Free Ukrainian invoice (*рахунок-фактура*) and act of completed work (*акт виконаних робіт*) templates for sole proprietors (ФОП). Word and Excel versions are included, and the Excel one has formulas. Public domain (CC0). Online generator with PDF export: [rakhuno.com](https://rakhuno.com).
+Free Ukrainian invoice (*рахунок-фактура*), act of completed work (*акт виконаних робіт*), reconciliation act, waybill and bilingual UA/EN invoice templates for sole proprietors (ФОП). Word and Excel versions are included, and the Excel one has formulas. Public domain (CC0). Online generator with PDF export: [rakhuno.com](https://rakhuno.com).
 
 ---
 
